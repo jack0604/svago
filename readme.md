@@ -1,7 +1,7 @@
-for download of this tool need enter this string on the terminal
->Usage
-># installing
->## https://github.com/jack0604/svago.git
+> installing
+   https://github.com/jack0604/svago.git
+
+> usage
     python3 [nome file]
 
 >Example
